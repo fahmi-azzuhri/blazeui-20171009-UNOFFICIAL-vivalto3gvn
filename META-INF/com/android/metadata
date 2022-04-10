@@ -1,0 +1,3 @@
+post-build=samsung/cm_vivalto3gvn/vivalto3gvn:5.1.1/LMY49G/35fb970601:userdebug/test-keys
+post-timestamp=1464457608
+pre-device=vivalto3gvn

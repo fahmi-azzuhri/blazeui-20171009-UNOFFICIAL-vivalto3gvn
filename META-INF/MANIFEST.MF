@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/build.prop
+SHA1-Digest: s6fYNIrciF5q4utBzoXYd6A5+z0=
+
+Name: file_contexts
+SHA1-Digest: gajGjro998Oa/IT3VEFfMV2CQsA=
+
+Name: boot.img
+SHA1-Digest: LtTBt2Bi0BntlyP5MLjTUbxg+Ts=
+
+Name: install/bin/backuptool.functions
+SHA1-Digest: M6nPp7gWHXOBhTxkNaTc6beUFzw=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: +OPbop19ZX5QuyyguegvfWxUYb8=
+
+Name: system.transfer.list
+SHA1-Digest: bTX0ouyH6gV1Puf1DYhnOmLJGdA=
+
+Name: install/bin/otasigcheck.sh
+SHA1-Digest: F28P5SCKeIX7UirZe1+ON1gCJpY=
+
+Name: system.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: uTCFRCBNUBP1hvQgY2IHH+UNsX0=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: ezj+VLX/jWbl8kfsXD4uCdeEyUE=
+
+Name: install/bin/backuptool.sh
+SHA1-Digest: Fl/fpsjk1se1reE7N2i3emC4KZQ=
+
+Name: META-INF/org/cyanogenmod/releasekey
+SHA1-Digest: eJIKuOWyms0pOrJairA/tHqOCQI=
+
+Name: system.new.dat
+SHA1-Digest: sWZGoDHKoRGVqQ/SaZuEhJoPkFM=
+
